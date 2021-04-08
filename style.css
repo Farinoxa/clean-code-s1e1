@@ -109,7 +109,6 @@
   width: 318px;
 }
 
-
 /* Task list */
 .item {
   overflow: hidden;
@@ -136,7 +135,7 @@
   width: 226px;
 }
 
-.item >  .input[type="text"] {
+.item > .input[type="text"] {
   width: 226px;
 }
 
